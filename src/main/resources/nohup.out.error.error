@@ -1,0 +1,1 @@
+2018-09-06 11:40:49,069 ERROR [us.codecraft.webmagic.Spider] - process request Request{url='http://www.goal.com/en-us/match/real-madrid-v-basel/commentary-result/4hix990ya0eqtyahdxwep9rkl', method='null', extras={date=2014-09-16, pageType=detail, match=real-madrid-v-basel, competition=UEFA Champions League}, priority=0, headers={}, cookies={}} error
